@@ -1,0 +1,25 @@
+.head_name{
+    background-color: rgb(16, 237, 215);
+
+}
+
+.reynolds-headname{
+    color: blue;
+    font-size: 70px;
+}
+
+.nav_name{
+    font-size: 25px;
+}
+.nav_names{
+    align-self: flex-end;
+}
+
+.bgimage{
+    background-image: url(/images/reynold-scaled.jpg);
+    opacity: 0.4;
+}
+
+.bg-image with text{
+    text-align: center;
+}
